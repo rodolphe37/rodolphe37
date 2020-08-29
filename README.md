@@ -1,3 +1,6 @@
+[Imgur](https://i.imgur.com/LEXGzaz.jpg)
+<br />
+
 ### Hi there, I'm Rodolphe - aka [rodolphe37][website] 👋
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
