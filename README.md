@@ -50,7 +50,7 @@
 
 ### :zap: My Github Stats</summary>
 
-  <img align="left" alt="rodolphe37 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodolphe37&show_icons=true&hide_border=false" />
+  <img align="left" alt="rodolphe37 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodolphe37&show_icons=true&hide_border=true" />
   <img align="right" alt="rodolphe37 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphe37" />
 
 
