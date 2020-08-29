@@ -45,9 +45,6 @@
 
 ---
 
-<br />
-
----
 
 ### :zap: Github Stats</summary>
 
