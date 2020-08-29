@@ -52,7 +52,7 @@
 
 [website]: https://rodolphe-augusto.fr
 [githubapp]: https://my-github-pwa.netlify.app
-[youtube]: https://youtube.com/UCfE6fziUhgiiT2ZuxUud6oQ/playlists
+[youtube]: https://www.youtube.com/channel/UCfE6fziUhgiiT2ZuxUud6oQ/playlists
 [instagram]: https://www.instagram.com/rodolphelakotaspirit/
 [linkedin]: https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-javascript-react-node-1a20b759/
 [facebook]: https://www.facebook.com/rodolphe.augusto.7
