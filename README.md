@@ -1,4 +1,4 @@
-<img align="center" height="100px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/LEXGzaz.jpg" />
+<img align="right" height="100px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/LEXGzaz.jpg" />
 <br />
 
 ### Hi there, I'm Rodolphe - aka [rodolphe37][website] 👋
