@@ -45,6 +45,12 @@
 
 ---
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphe37)](https://github.com/rodolphe37/github-readme-stats)
+
+---
+
 ### :zap: Github Stats</summary>
 
   <img align="left" alt="rodolphe37 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodolphe37&show_icons=true&hide_border=true" />
