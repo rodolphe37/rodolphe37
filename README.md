@@ -5,6 +5,16 @@
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
 
+[![slack]](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)(https://join.slack.com/t/js-bro/shared_invite/zt-h03dif1x-bdYNp1U9pwmCnPbrKjocAQ)
+
+[![facebook]](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)(https://www.facebook.com/rodolphe.augusto.7/)
+
+[![instagram]](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/rodolphelakotaspirit/)
+
+[![linkedin]](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-javascript-react-node-1a20b759/)
+
+[![youtube]](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")(https://www.youtube.com/channel/UCfE6fziUhgiiT2ZuxUud6oQ/playlists)
+
 ## I'm a Developer, and Author!
 
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
