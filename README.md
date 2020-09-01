@@ -1,6 +1,7 @@
 <img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://imgur.com/y5S62AN.jpg" />
 
 ### Hi there, I'm Rodolphe - aka [rodolphe37][website] 👋
+![views](https://komarev.com/ghpvc/?username=rodolphe37&label=PROFILE+VIEWS)
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
 
