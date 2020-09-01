@@ -18,11 +18,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rodolphe-augusto.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rodolphe37 | YouTube" width="22px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="rodolphe37 | LinkedIn" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="rodolphe37 | Instagram" width="22px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="rodolphe37 | facebook" width="22px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="rodolphe-augusto.fr" width="100px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rodolphe37 | YouTube" width="100px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="rodolphe37 | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="rodolphe37 | Instagram" width="100px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="rodolphe37 | facebook" width="100px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 
