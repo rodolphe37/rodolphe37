@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rodolphe-augusto.fr" width="100px" src="https://i.imgur.com/xSu6S5v.png" />][website]
+[<img align="left" alt="rodolphe-augusto.fr" width="175px" src="https://i.imgur.com/xSu6S5v.png" />][website]
 [<img align="left" alt="rodolphe37 | YouTube" width="100px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="rodolphe37 | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="rodolphe37 | Instagram" width="100px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
