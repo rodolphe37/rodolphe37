@@ -3,7 +3,6 @@
 ### Hi there, I'm Rodolphe - aka [rodolphe37][website] 👋
 ![views](https://komarev.com/ghpvc/?username=rodolphe37&label=PROFILE+VIEWS)
 
-
 ## I'm a Developer, and Author!
 
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
