@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rodolphe-augusto.fr" width="155px" src="https://i.imgur.com/xSu6S5v.png" />][website]
+[<img align="left" alt="rodolphe-augusto.fr" width="165px" src="https://i.imgur.com/xSu6S5v.png" />][website]
 [<img align="left" alt="rodolphe37 | YouTube" width="95px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="rodolphe37 | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="rodolphe37 | Instagram" width="115px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="rodolphe37 | facebook" width="100px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="rodolphe37 | facebook" width="105px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 
