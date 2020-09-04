@@ -8,7 +8,7 @@
 
 ## I'm a Developer, and Author!
 
-- 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp] -([The media devices demo here][demosite])!
+- 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp] - ([The media devices demo here][demosite]) !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am currently looking for a job (possibly remotely) as a fullStack Javascript developer (NodeJs-ReactJs),
      a job in which I can take my skills to the next level and grow as a web developer.
