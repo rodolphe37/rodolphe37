@@ -8,8 +8,6 @@
 
 ## I'm a Developer, and Author!
 
-<img align="left" alt="rodolphe37 Github Stats" src="demo/me-2.jpg" />
-
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am currently looking for a job (possibly remotely) as a fullStack Javascript developer (NodeJs-ReactJs),
