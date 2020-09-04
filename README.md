@@ -5,7 +5,8 @@
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
 
-<img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/vQrLReM.jpg" />
+<img align="left" height="130px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/vQrLReM.jpg" />
+
 ## I'm a Developer, and Author!
 
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
