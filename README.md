@@ -7,6 +7,7 @@
 
 
 ## I'm a Developer, and Author!
+<img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/vQrLReM.jpg" />
 
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
 - 🌱 I’m currently learning everything 🤣
