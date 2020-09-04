@@ -47,7 +47,6 @@
 
 <br />
 <br />
-<img align="left" height="130px" alt="rodolphe37 Github Stats" src="https://i.imgur.com/vQrLReM.jpg" />
 ---
 
 
