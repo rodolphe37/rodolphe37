@@ -7,6 +7,7 @@
 
 
 ## I'm a Developer, and Author!
+
 <img align="center" height="250px" alt="rodolphe37 Github Stats" src="demo/me-2.jpg" />
 
 - 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
