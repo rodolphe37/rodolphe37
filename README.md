@@ -8,7 +8,7 @@
 
 ## I'm a Developer, and Author!
 
-- 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp]!
+- 🔭 I’m currently working on [My Portfolio][website] & [My Github App][githubapp] - [The media devices demo here][demosite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am currently looking for a job (possibly remotely) as a fullStack Javascript developer (NodeJs-ReactJs),
      a job in which I can take my skills to the next level and grow as a web developer.
@@ -62,3 +62,4 @@
 [instagram]: https://www.instagram.com/rodolphelakotaspirit/
 [linkedin]: https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-javascript-react-node-1a20b759/
 [facebook]: https://www.facebook.com/rodolphe.augusto.7
+[demosite]: https://github-my-profil-mediadevices-demo.netlify.app/
