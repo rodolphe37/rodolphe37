@@ -27,6 +27,8 @@
 
 <br />
 
+---
+
   <h3 align="left">:zap: GitHub Stats : </h3>
 
 <p><img align="left" src="https://github-readme-stats.rodolphe37.vercel.app/api/top-langs?username=rodolphe37&show_icons=true&locale=en&layout=compact" alt="rodolphe37" /></p>
@@ -36,6 +38,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolphe37&" alt="rodolphe37" /></p>
 
 <br />
+
+---
 
 <h3 align="left">Languages and Tools :</h3>
 
@@ -84,7 +88,7 @@
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<h4>Script</h4>
+<h4>Script Language</h4>
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -109,9 +113,8 @@
 
 
 [website]: https://rodolphe-augusto.fr
-[githubapp]: https://my-github-pwa.netlify.app
 [youtube]: https://www.youtube.com/channel/UCfE6fziUhgiiT2ZuxUud6oQ/playlists
 [instagram]: https://www.instagram.com/rodolphelakotaspirit/
 [linkedin]: https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-javascript-react-node-1a20b759/
 [facebook]: https://www.facebook.com/rodolphe.augusto.7
-[demosite]: https://github-my-profil-mediadevices-demo.netlify.app/
+
