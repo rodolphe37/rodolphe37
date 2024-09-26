@@ -9,11 +9,11 @@
 
 ## I'm a Developer, and Author!
 
-- 🔭 I am currently working on creating progressive React web applications and Electron desktop versions, all open-source!
-- 🌱 I’m currently learning dApp &Web3
-- 👯 I am currently looking for a job (possibly remotely) as a fullStack/Front-end Javascript developer (NodeJs-ReactJs),
+- 🔭 I am currently working as React React-native Javascript/TypeScript developer for the Comap smartLab (R&D office)!
+- 🌱 I’m currently learning every day, and that's exaclty why i do this job.
+- 👯 I am currently looking for a job (possibly remotely) as a fullStack/Front-end Javascript/Typescript developer (NodeJs-ReactJs),
      a job in which I can take my skills to the next level and grow as a web developer.
-- 🥅 2022 Goals: Looking for the right team where I can help create amazing digital products.
+- 🥅 2025 Goals: Looking for the right team where I can help create amazing digital products.
 - ⚡ Fun fact: I love to draw and play guitar / percussion
 
 
