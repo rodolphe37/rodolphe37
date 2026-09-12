@@ -1,157 +1,159 @@
-<img align="center" width="300px" height="130px" alt="rodolphe37 Github Stats" src="https://imgur.com/y5S62AN.jpg" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Rodolphe%20Augusto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Freelance%20Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=54&descSize=18&descColor=E6EDF3" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
 
-### Hi there, I'm Rodolphe Augusto - aka [rodolphe37][website] 👋
-![views](https://komarev.com/ghpvc/?username=rodolphe37&label=PROFILE+VIEWS)
+<a href="https://rodolphe-augusto.fr"><img src="https://readme-typing-svg.demolab.com/?lines=Building+web+apps+with+React+%2B+TypeScript;Building+mobile+apps+with+React+Native+%2B+Expo;Building+APIs+with+Python+%2B+FastAPI;Shipping+small+SaaS+%26+open-source+tools+solo;Always+learning%2C+always+building.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1500&size=20" alt="Typing SVG" /></a>
 
-[![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
+[![Website](https://img.shields.io/badge/rodolphe--augusto.fr-111827?style=for-the-badge&logo=safari&logoColor=white)][website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 
+![Profile views](https://komarev.com/ghpvc/?username=rodolphe37&label=Profile%20views&color=58A6FF&style=flat-square)
 
-## I'm a Developer, and Author!
-
-- 🔭 I am currently working as React React-native Javascript/TypeScript developer for the Comap smartLab (R&D office)!
-- 🌱 I’m currently learning every day, and that's exaclty why i do this job.
-- 👯 I am currently looking for a job (possibly remotely) as a fullStack/Front-end Javascript/Typescript developer (NodeJs-ReactJs),
-     a job in which I can take my skills to the next level and grow as a web developer.
-- 🥅 2025 Goals: Looking for the right team where I can help create amazing digital products.
-- ⚡ Fun fact: I love to draw and play guitar / percussion
-
-
-### Connect with me:
-
-[<img align="left" alt="rodolphe-augusto.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rodolphe37 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rodolphe37 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rodolphe37 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rodolphe-augusto.fr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+</div>
 
 <br />
 
----
+## 🧭 About me
 
-  <h3 align="left">:zap: GitHub Stats : </h3>
-
-<p><img align="left" src="https://github-readme-stats.rodolphe37.vercel.app/api/top-langs?username=rodolphe37&show_icons=true&locale=en&layout=compact" alt="rodolphe37" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.rodolphe37.vercel.app/api?username=rodolphe37&show_icons=true&locale=en" alt="rodolphe37" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolphe37" alt="rodolphe37" /></p>
+- 🧑‍💻 **Freelance / independent developer** — I design, build and ship my own web & mobile products end-to-end, from UI to database to deploy.
+- 🛠️ Day to day I build with **React + TypeScript + Vite** on the front, **Python + FastAPI** on the back, and **React Native / Expo** for mobile.
+- 🧩 I also build **developer tooling** — a native desktop app launcher ([MyAppsLibrary](https://github.com/rodolphe37/my-apps-library)) with its own plugin marketplace, and a browser-based motion design editor ([MyMotionStudio](https://github.com/rodolphe37/my-motion-studio)).
+- 🚀 I ship fast, iterate in public, and care about clean architecture, offline-first UX (PWA, IndexedDB) and good DX.
+- 🌱 Currently deepening my **Python / FastAPI / PostgreSQL** backend skills and self-hosting infra (Docker, Traefik, VPS).
+- 🥅 **2026 goal:** grow my freelance activity and keep releasing polished side-projects & open-source tools.
+- ⚡ Fun fact: when I'm not coding, I draw or play guitar & percussion.
+- 📫 Open to freelance missions and interesting collaborations — reach out via [my website][website] or [LinkedIn][linkedin].
 
 <br />
 
+## 🚀 Featured projects
+
+<div align="center">
+
+[![MyAppsLibrary](https://github-readme-stats.rodolphe37.vercel.app/api/pin/?username=rodolphe37&repo=my-apps-library&theme=dark&hide_border=true)](https://github.com/rodolphe37/my-apps-library)
+[![MyMotionStudio](https://github-readme-stats.rodolphe37.vercel.app/api/pin/?username=rodolphe37&repo=my-motion-studio&theme=dark&hide_border=true)](https://github.com/rodolphe37/my-motion-studio)
+
+</div>
+
+> Beyond these two open-source projects, I've shipped a range of products as a freelancer — a digital-signature app, a driving-school management SaaS, a nearby-meetup mobile app, a carte-grise service, a password manager, an event-timer PWA, an OCR/PDF converter, portfolio sites and more. Most live as private client/personal repos — [live demos & case studies on my website][website].
+
+<br />
+
+## 🧰 Tech stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
+
+**Web front-end**
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+**Mobile & desktop**
+
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/PySide6%20(Qt)-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
+**Back-end & APIs**
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+**Data & infra**
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX%20%2F%20Traefik-269539?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**Tools**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br />
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.rodolphe37.vercel.app/api?username=rodolphe37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="rodolphe37's GitHub stats" height="165" />
+<img src="https://github-readme-stats.rodolphe37.vercel.app/api/top-langs/?username=rodolphe37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolphe37&theme=tokyonight&hide_border=true" alt="rodolphe37's streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodolphe37/rodolphe37/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodolphe37/rodolphe37/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rodolphe37/rodolphe37/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br />
+
+<div align="center">
+
+💬 *Always happy to talk code, freelance missions, or new product ideas — [drop me a message][website].*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="" />
+
 ---
-
-<h3 align="left">Languages and Tools :</h3>
-
-<h4>Front-End Technologies</h4>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
-
-<h4>Back-End Technologies</h4>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-<h4>Mobile App Technologies</h4>
-
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<h4>Desktop App Technologies</h4>
-
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-<h4>Script Language</h4>
-
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-<h3>Tools</h3>
-
-<h4>Editor</h4>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<h4>Work Flow</h4>
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-<h4>Deployment</h4>
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-<h4>Testing</h4>
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-<h4>Agile Tools</h4>
-
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-<h4>Design Tools</h4>
-
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<h4>Operating System</h4>
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
----
-
 
 [website]: https://rodolphe-augusto.fr
 [youtube]: https://www.youtube.com/channel/UCfE6fziUhgiiT2ZuxUud6oQ/playlists
 [instagram]: https://www.instagram.com/rodolphelakotaspirit/
 [linkedin]: https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-javascript-react-node-1a20b759/
 [facebook]: https://www.facebook.com/rodolphe.augusto.7
-
