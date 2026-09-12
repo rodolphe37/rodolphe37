@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
+<img src="https://raw.githubusercontent.com/rodolphe37/rodolphe37/master/assets/banner-header.svg" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
 
 <a href="https://rodolphe-augusto.fr"><img src="https://readme-typing-svg.demolab.com/?lines=Building+web+apps+with+React+%2B+TypeScript;Building+mobile+apps+with+React+Native+%2B+Expo;Building+APIs+with+Python+%2B+FastAPI;Shipping+small+SaaS+%26+open-source+tools+solo;Always+learning%2C+always+building.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1500&size=20" alt="Typing SVG" /></a>
 
@@ -148,7 +148,7 @@
 
 </div>
 
-<img src="assets/banner-footer.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rodolphe37/rodolphe37/master/assets/banner-footer.svg" width="100%" alt="" />
 
 ---
 
