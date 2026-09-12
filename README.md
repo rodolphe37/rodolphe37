@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/rodolphe37/rodolphe37/master/assets/banner-header.svg" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
 
-<a href="https://rodolphe-augusto.fr"><img src="https://readme-typing-svg.demolab.com/?lines=Building+web+apps+with+React+%2B+TypeScript;Building+mobile+apps+with+React+Native+%2B+Expo;Building+APIs+with+Python+%2B+FastAPI;Shipping+small+SaaS+%26+open-source+tools+solo;Always+learning%2C+always+building.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1500&size=20" alt="Typing SVG" /></a>
+<a href="https://rodolphe-augusto.fr"><img src="https://readme-typing-svg.demolab.com/?lines=Building+web+apps+with+React+%2B+TypeScript;Building+mobile+apps+with+React+Native+%2B+Expo;Building+APIs+with+Python+%2B+FastAPI;Shipping+small+SaaS+%26+open-source+tools+solo;Always+learning%2C+always+building.&font=Fira%20Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1500&size=20" alt="Typing SVG" /></a>
 
 [![Website](https://img.shields.io/badge/rodolphe--augusto.fr-111827?style=for-the-badge&logo=safari&logoColor=white)][website]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
