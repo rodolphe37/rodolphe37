@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Rodolphe%20Augusto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Freelance%20Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=54&descSize=18&descColor=E6EDF3" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
+<img src="assets/banner-header.svg" width="100%" alt="Rodolphe Augusto — Freelance Full-Stack Web & Mobile Developer" />
 
 <a href="https://rodolphe-augusto.fr"><img src="https://readme-typing-svg.demolab.com/?lines=Building+web+apps+with+React+%2B+TypeScript;Building+mobile+apps+with+React+Native+%2B+Expo;Building+APIs+with+Python+%2B+FastAPI;Shipping+small+SaaS+%26+open-source+tools+solo;Always+learning%2C+always+building.&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1500&size=20" alt="Typing SVG" /></a>
 
@@ -148,7 +148,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="" />
+<img src="assets/banner-footer.svg" width="100%" alt="" />
 
 ---
 
